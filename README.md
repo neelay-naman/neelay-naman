@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Neelay Naman, I'm 15 and a high school student
+- 👋 Hi, I’m Neelay Naman, I'm 16 and a high school student
 - 👀 I’m interested in Python, Full Stack Web Development and Automation
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Web Development projects and fun school-type python projects
