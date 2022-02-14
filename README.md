@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python, Full Stack Web Development and Automation
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Web Development projects and fun school-type python projects
-- 📫 Instagram: __bihari___ LinkedIn: Neelay Naman
+- 📫 Instagram: [\_\_bihari___](https://www.instagram.com/__bihari___/) , LinkedIn: [Neelay Naman](https://www.linkedin.com/in/neelay-naman/)
